@@ -1,0 +1,22 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Node.js project #1 for the TZM course \"Complete Node.js Developer in 2023: Zero to Mastery\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/nasfernane/planets-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nasfernane/planets-project/issues"
+  },
+  "homepage": "https://gitlab.com/nasfernane/planets-project#readme",
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
